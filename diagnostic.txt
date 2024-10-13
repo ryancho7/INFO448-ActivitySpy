@@ -1,0 +1,20 @@
+2024-10-13 16:16:15.309  6504-6504  AppCompatDelegate       edu.uw.ischool.ryancho7.activityspy  D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2024-10-13 16:16:15.337  6504-6504  ho7.activityspy         edu.uw.ischool.ryancho7.activityspy  W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2024-10-13 16:16:15.362  6504-6504  MainActivity            edu.uw.ischool.ryancho7.activityspy  I  onCreate event fired with no savedInstanceState
+2024-10-13 16:16:15.377  6504-6504  MainActivity            edu.uw.ischool.ryancho7.activityspy  I  onStart event fired
+2024-10-13 16:16:15.381  6504-6504  MainActivity            edu.uw.ischool.ryancho7.activityspy  I  onResume event fired
+2024-10-13 16:16:15.386  6504-6504  HWUI                    edu.uw.ischool.ryancho7.activityspy  W  Unknown dataspace 0
+2024-10-13 16:16:15.404  6504-6518  EGL_emulation           edu.uw.ischool.ryancho7.activityspy  I  Opening libGLESv1_CM_emulation.so
+2024-10-13 16:16:15.405  6504-6518  EGL_emulation           edu.uw.ischool.ryancho7.activityspy  I  Opening libGLESv2_emulation.so
+2024-10-13 16:16:15.420  6504-6518  HWUI                    edu.uw.ischool.ryancho7.activityspy  W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2024-10-13 16:16:15.421  6504-6518  HWUI                    edu.uw.ischool.ryancho7.activityspy  W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2024-10-13 16:16:15.430  6504-6518  Gralloc4                edu.uw.ischool.ryancho7.activityspy  I  mapper 4.x is not supported
+2024-10-13 16:16:15.771  6504-6508  ho7.activityspy         edu.uw.ischool.ryancho7.activityspy  I  Compiler allocated 4206KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+2024-10-13 16:16:15.877  6504-6508  ho7.activityspy         edu.uw.ischool.ryancho7.activityspy  I  Compiler allocated 5250KB to compile void android.view.ViewRootImpl.performTraversals()
+2024-10-13 16:16:20.667  6504-6528  ProfileInstaller        edu.uw.ischool.ryancho7.activityspy  D  Installing profile for edu.uw.ischool.ryancho7.activityspy
+2024-10-13 16:16:31.751  6504-6504  VRI[MainActivity]       edu.uw.ischool.ryancho7.activityspy  D  visibilityChanged oldVisibility=true newVisibility=false
+2024-10-13 16:16:31.781  6504-6504  MainActivity            edu.uw.ischool.ryancho7.activityspy  I  onPause event fired
+2024-10-13 16:16:31.785  6504-6504  MainActivity            edu.uw.ischool.ryancho7.activityspy  I  onStop event fired
+2024-10-13 16:16:46.878  6504-6504  MainActivity            edu.uw.ischool.ryancho7.activityspy  I  onDestroy event fired
+2024-10-13 16:16:46.878  6504-6504  MainActivity            edu.uw.ischool.ryancho7.activityspy  E  We're going down, Captain!
+---------------------------- PROCESS ENDED (6504) for package edu.uw.ischool.ryancho7.activityspy ----------------------------
